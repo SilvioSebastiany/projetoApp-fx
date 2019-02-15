@@ -1,19 +1,15 @@
 package br.projeto.address;
-// Alterado do github
+// Alterado do github- haha
 import java.io.IOException;
 
 import br.projeto.address.model.InformacaoErro;
-import br.projeto.address.view.ErrorEditDialogControler;
 import br.projeto.address.view.ErrorOverviewController;
 import javafx.application.Application;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
-import javafx.scene.layout.AnchorPane;
-import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.VBox;
-import javafx.stage.Modality;
 import javafx.stage.Stage;
 
 public class MainApp extends Application {
